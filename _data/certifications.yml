@@ -1,0 +1,35 @@
+- title: "IT Professional (MCITP) Enterprise Administrator"
+  uri: "http://www.microsoft.com/learning/en/us/exam.aspx?id=70-563"
+  sponsor: Microsoft
+
+- title: "IT Professional (MCITP) Server Administrator"
+  uri: "http://www.microsoft.com/learning/en/us/exam.aspx?id=70-536&locale=en-us"
+  sponsor: Microsoft
+
+- title: "Systems Engineer (MCSE)"
+  uri: "http://www.microsoft.com/learning/en/us/exam.aspx?id=70-505"
+  sponsor: Microsoft
+
+- title: "Systems Administrator (MCSA)"
+  uri: "http://www.microsoft.com/learning/en/us/exam.aspx?id=70-561"
+  sponsor: Microsoft
+
+- title: "Technology Specialist (MCTS)"
+  uri: "http://www.microsoft.com/learning/en/us/exam.aspx?id=70-580"
+  sponsor: Microsoft
+
+- title: "Professional (MCP)"
+  uri: "http://www.microsoft.com/learning/en/us/exam.aspx?id=70-431"
+  sponsor: Microsoft
+
+- title: "V3 Foundation in IT Service Management"
+  uri: "http://www.microsoft.com/learning/en/us/exam.aspx?id=70-431"
+  sponsor: ITIL
+
+- title: "Support Professional"
+  uri: "http://www.microsoft.com/learning/en/us/exam.aspx?id=70-431"
+  sponsor: Apple
+
+- title: "A+"
+  uri: "http://www.microsoft.com/learning/en/us/exam.aspx?id=70-431"
+  sponsor: CompTIA

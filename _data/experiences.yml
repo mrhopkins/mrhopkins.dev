@@ -1,0 +1,57 @@
+- company: Anchor Network Solutions
+  job: "Service Desk Engineer"
+  date: April 2016 - Present
+
+- company: One North Interactive
+  job: "Technical Support Engineer"
+  date: June 2015 - February 2016
+  description: |+
+    - Primary technical support contact for employees and contractors during new office move
+    - Support for employee workstations and phones, internal company networks, software, hardware, and internal web applications
+    - Administration and access control of internal technology tools, including Group Policy, Active Directory, Microsoft Office 365, MDM, Atlassian JIRA, Mac OS X, Microsoft Windows and Windows Server
+    - Internal technology documentation and training for employees and contractors
+    - Skype for Business IP phone setup and support
+    - Testing of new and updated software and hardware prior to company-wide rollouts
+    - Custom system imaging and deployment
+    - System backups and restores
+    - Volume activation management with VAMT 
+    - Employee onboarding and offboarding (hardware, software, and account access)
+    - Automation of common tasks via Task Scheduler and PowerShell
+    - On-call critical network access support
+
+- company: One North Interactive
+  job: "Associate Deployment Engineer"
+  date: August 2012 - June 2015
+  description: |+
+    - Completed QA and production environment migration from physical datacenters to cloud-based Microsoft Azure platform
+    - Responsible for the setup, configuration, and ongoing monitoring and support of One North Interactive production web application and database servers, custom applications, and websites
+    - Windows 2003/2008/2012 Server/Advanced Server administration
+    - Microsoft SQL Server 2005/2008/2012 administration
+    - System Security
+    - Microsoft IIS administration
+    - .NET application installation and configuration
+    - Application problem isolation and debugging
+    - Custom application & website migration & installation
+    - Assisting the application development and QA teams with application builds, versioning and migration management (Git, BitBucket, Octopus Deploy, TeamCity)
+    - On-call support rotation
+    - Internal and external DNS configuration
+    - File system management via DFSR and SFTP
+    - Automation of common tasks via Task Scheduler and PowerShell
+    - Web Application Firewall management
+    - Disaster Recovery environment setup across geographical regions
+
+- company: Hubbard One
+  job: "Associate Deployment Engineer"
+  date: August 2011 - August 2012
+  description: |+
+    - Responsible for the setup, configuration, and ongoing monitoring and support of Hubbard One production web application and database servers, custom applications, and websites
+    - Windows 2000/2003/2008 Server/Advanced Server administration
+    - System Security
+    - Microsoft IIS administration
+    - Microsoft SQL Server 2000/2005/2008 administration
+    - .NET application installation and configuration
+    - Application problem isolation and debugging
+    - Custom application & website migration & installation
+    - Assisting the application development and QA teams with application builds, versioning and migration
+    - Custom application installation procedure and deployment
+    - Onsite application installation and configuration support

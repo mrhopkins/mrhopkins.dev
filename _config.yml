@@ -1,0 +1,36 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: rouge
+
+
+### content configuration ###
+title:       "Matthew Hopkins | Deployment Engineer"
+keywords:    "Matthew, Hopkins"
+description: "Matthew Hopkins"
+source_link: "https://github.com/mrhopkins/mrhopkins.github.io"
+favicon:     "favicon.ico"
+touch_icon:  "favicon.ico"
+google_analytics_key: UA-44211044-1 ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#0059B5'
+  green:     '#3BBA6E'
+  purple:    '#AE81FF'
+  orange:    '#EEED17'
+  turquoise: '#27B9B1'
+  
