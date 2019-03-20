@@ -6,6 +6,12 @@ fa-icon: graduation-cap
 style: center
 ---
 
+### University of Denver Boot Camps
+
+*Full Stack Web Developer Certification (expected May 2019)
+
+<br>
+
 ### University of Colorado Boulder
 
 *Bachelor of Science, Business Administration; Marketing*
