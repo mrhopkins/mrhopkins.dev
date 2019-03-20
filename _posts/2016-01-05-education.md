@@ -1,6 +1,6 @@
 ---
 title: "education"
-bg: 'green'
+bg: '#635FD4'
 color: white
 fa-icon: graduation-cap
 style: center
