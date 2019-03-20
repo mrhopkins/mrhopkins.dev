@@ -1,6 +1,6 @@
 ---
 title: "portfolio"
-bg: '#12b886'  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: '#635FD4'  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: code
 ---
