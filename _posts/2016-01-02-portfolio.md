@@ -5,25 +5,16 @@ color: white
 fa-icon: code
 ---
 
-<div class="row">
-    <div class="col-md-12">
-    </div>
-</div>
-
-<div class="row">
-
-    <div class="work">
-        <div class="col-md">
-            <div class="projectContainer">
-                <img src="assets/images/psychic.1.jpg" alt="Psycic Letter" class="projectimage">
-                <h3>Psychic Letter</h3>
+<div class="row" markdown="1">
+        <h3>GifTastic Game</h3>
+                <img src="https://i.imgur.com/NkmnmAE.png" alt="GifTastic Game"
                 <div class="middle">
                     <div class="projectText">
-                        <a href="https://jlcampbell16.github.io/Psychic-Game/">
-                            <img src="assets/images/www.internet icon 512x512.png" class="projectIcon">
+                        <a href="https://mrhopkins.github.io/GifTastic/">
+                            <i class="fa-chrome" style="font-size:48px;"></i>
                         </a>
-                        <a href="https://github.com/Jlcampbell16/Psychic-Game">
-                            <img src="assets/images/GitHub-Mark-64px.png" class="projectIcon">
+                        <a href="https://github.com/mrhopkins/GifTastic">
+                            <i class="fa-github" style="font-size:48px;"></i>
                         </a>
                     </div>
                 </div>
