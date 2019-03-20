@@ -1,5 +1,4 @@
-<img src="/_includes/img/flatirons.jpg" alt="flatirons"
-	title="Flatirons" />
+![Flatirons](_includes/img/flatirons.jpg)
 
 Powered by [Jekyll](https://jekyllrb.com) and [GitHub](https://github.com)
 &mdash;
