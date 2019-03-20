@@ -17,7 +17,7 @@ style: center
 [GitHub Code](https://github.com/mrhopkins/trivia-game)
 
 
-<h2><Train Scheduler</h2>
+<h2>Train Scheduler</h2>
 
 <a href="https://mrhopkins.github.io/trivia-game/" rel="Train Scheduler">![GifTastic](https://i.imgur.com/Hw91Hey.png)</a>
 [GitHub Code](https://github.com/mrhopkins/train-scheduler)
