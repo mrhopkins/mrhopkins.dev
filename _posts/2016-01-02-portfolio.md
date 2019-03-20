@@ -24,5 +24,5 @@ style: center
 
 <h2>Concert Corner</h2>
 
-<a href="jlcampbell16.github.io/TeamAPI/" rel="Concert Corner">![Concert Corner](https://i.imgur.com/NkmnmAE.png)</a>
+<a href="jlcampbell16.github.io/TeamAPI/" rel="Concert Corner">![Concert Corner](https://i.imgur.com/niyQeHr.png)</a>
 [GitHub Code](https://github.com/jlcampbell16/TeamAPI/)
