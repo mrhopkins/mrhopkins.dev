@@ -1,12 +1,11 @@
 ---
 title: "portfolio"
-bg: '#635FD4'  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: 'green'  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: code
 ---
 
    <div class="row">
-            <h2>Portfolio</h2>
             <hr>
                 <ul>
                     <li>
