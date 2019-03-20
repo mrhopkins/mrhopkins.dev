@@ -15,10 +15,10 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "Matthew Hopkins | Deployment Engineer"
+title:       "Matthew Hopkins | Full Stack Web Developer"
 keywords:    "Matthew, Hopkins"
 description: "Matthew Hopkins"
-source_link: "https://github.com/mrhopkins/mrhopkins.github.io"
+source_link: "https://github.com/mrhopkins/matthewhopkins.org"
 favicon:     "favicon.ico"
 touch_icon:  "favicon.ico"
 google_analytics_key: UA-44211044-1 ## put YOUR key here to enable tracking! (blank to disable)
