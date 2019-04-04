@@ -6,6 +6,12 @@ fa-icon: code
 style: center
 ---
 
+<h2>Bamazon Node MySQL App</h2>
+
+<a href="https://github.com/mrhopkins/bamazon-node-mysql/" rel="Bamazon Node MySQL App">![Bamazon Node MySQL App](https://i.imgur.com/UIXkKYI.gif)</a>
+<br>
+[GitHub Code](https://github.com/mrhopkins/bamazon-node-mysql)
+
 <h2>LIRI Node App</h2>
 
 <a href="https://github.com/mrhopkins/liri-node-app/" rel="LIRI Node App">![LIRI Node App](https://i.imgur.com/VkJlO4o.gif)</a>
