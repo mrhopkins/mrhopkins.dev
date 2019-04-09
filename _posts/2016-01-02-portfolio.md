@@ -6,6 +6,12 @@ fa-icon: code
 style: center
 ---
 
+<h2>FriendFinder</h2>
+
+<a href="https://afternoon-brushlands-45704.herokuapp.com/" rel="FriendFinder Node and Express App">![FriendFinder Node and Express App](https://i.imgur.com/ZL4CzeX.png)</a>
+<br>
+[GitHub Code](https://github.com/mrhopkins/FriendFinder)
+
 <h2>Bamazon Node MySQL App</h2>
 
 <a href="https://github.com/mrhopkins/bamazon-node-mysql/" rel="Bamazon Node MySQL App">![Bamazon Node MySQL App](https://i.imgur.com/UIXkKYI.gif)</a>
