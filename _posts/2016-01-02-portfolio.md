@@ -8,7 +8,7 @@ style: center
 
 <h2>Eat-Da-Burger!</h2>
 
-<a href="https://enigmatic-badlands-96539.herokuapp.com/" rel="Eat-Da-Burger!">![Eat-Da-Burger!](https://i.imgur.com/rk5sPb5.png)</a>
+<a href="https://enigmatic-badlands-96539.herokuapp.com/" rel="Eat-Da-Burger!">![Eat-Da-Burger!](https://i.imgur.com/TQJFwGB.png)</a>
 <br>
 [GitHub Code](https://github.com/mrhopkins/burger)
 
