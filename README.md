@@ -1,6 +1,6 @@
-# matthewhopkins.org
+# mrhopkins.dev
 
-https://mrhopkins.github.io/matthewhopkins.org/
+https://mrhopkins.dev/
 
 Responsive single-paged portfolio app based on Jekyll and Skeleton. Font Awesome icons and Google fonts added for styling.
 
