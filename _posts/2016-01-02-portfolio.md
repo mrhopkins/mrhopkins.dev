@@ -50,9 +50,3 @@ style: center
 
 <a href="https://mrhopkins.github.io/TriviaGame/" rel="Trivia Game">![GifTastic](https://i.imgur.com/jKc1O2k.png)</a>
 [GitHub Code](https://github.com/mrhopkins/TriviaGame)
-
-
-<h2>Train Scheduler</h2>
-
-<a href="https://mrhopkins.github.io/train-scheduler/" rel="Train Scheduler">![GifTastic](https://i.imgur.com/Hw91Hey.png)</a>
-[GitHub Code](https://github.com/mrhopkins/train-scheduler)
