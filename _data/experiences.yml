@@ -15,27 +15,21 @@
   job: "DevOps Engineer"
   date: December 2016 - December 2018
   description: |+
-    - Maintain and improve the reliability and uptime of EDUCAUSE products and services residing on premises and in the Azure Cloud
-    - Work closely with developers, both on premises and third-party vendors, to configure, troubleshoot, maintain and deploy solutions to the Cloud, and migrate on premises solutions to the Cloud.
-    - Review and make necessary recommendations for infrastructure initiatives in collaboration with your fellow developers and system administrators
-    - Automate repetitive tasks and contribute to a continuous delivery pipeline
-    - Support our existing production systems while continuously working to improve them
-    - Work with fellow system administrators to define operations best practices and standards
-    - Identify key system metrics and ensure adequate monitoring coverage for new and existing services
-    - Author tools that reliably manage infrastructure in a clean, testable, re-usable fashion
-    - Identify key system metrics and ensure adequate monitoring coverage for new and existing services
-    - Escalation point for on-call personnel
-    - Plans and coordinates data migrations between systems
-    - Plans and executes systems maintenance and code forensics when required
-    - Represent the Information Technology Development team during inter-department discussions concerning projects and technology strategy
-    - Oversee and guide contract personnel assigned to active projects
+    - Migrated on-premise Exchange Email Server to cloud based Office 365
+    - Initialized and deployed JAMF Pro EMM to all Mac users
+    - Implemented Apple JointVenture premium support for all Mac users 
+    - Deployed ConnectWise RDP to all users for improved remote support
+    - Maintained and improved the reliability and uptime of products and services residing on premises and in the Azure and AWS cloud
+    - Planned and coordinated data migrations between systems
+    - Worked closely with developers, both on premises and third-party vendors, to configure, troubleshoot, maintain and deploy solutions to the cloud, and migrate on premises solutions to the cloud
+    - Represented the Information Technology Development team during inter-department discussions concerning projects and technology strategy
 
 - company: Anchor Network Solutions
   job: "Service Desk Engineer II"
   date: April 2016 - December 2016
   description: |+
-    - Provide support services for our clients including end user support, new pc installation, and basic server and network troubleshooting
-    - Handle all realms of services for our clients including service desk support, total IT system administration, and disaster recovery
+    - Provided support services for our clients including end user support, new pc installation, and basic server and network troubleshooting
+    - Handled all realms of services for our clients including service desk support, total IT system administration, and disaster recovery
     
 - company: One North Interactive
   job: "Technical Support Engineer"
