@@ -1,6 +1,6 @@
 # mrhopkins.dev
 
-https://mrhopkins.dev/
+https://www.mrhopkins.dev/
 
 Responsive single-paged portfolio app based on Jekyll and Skeleton. Font Awesome icons and Google fonts added for styling.
 
