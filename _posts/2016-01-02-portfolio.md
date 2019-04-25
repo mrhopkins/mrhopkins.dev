@@ -11,7 +11,6 @@ style: center
 <a href="https://mighty-beyond-14460.herokuapp.com/" rel="Mongo Scraper">![Mongo Scraper](https://i.imgur.com/lrBXZWj.png) </a>
 <br>
 [GitHub Code](https://github.com/mrhopkins/mongoscraper)
-https://i.imgur.com/lrBXZWj.png
 
 <h2>Tacos Squared</h2>
 
