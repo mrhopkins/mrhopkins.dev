@@ -6,6 +6,12 @@ fa-icon: code
 style: center
 ---
 
+<h2>Clicky Game</h2>
+
+<a href="https://mrhopkins.github.io/clickygame/" rel="Clicky Game">![Clicky Game](https://i.imgur.com/LKW5SJj.png) </a>
+<br>
+[GitHub Code](https://github.com/mrhopkins/clickygame)
+
 <h2>Mongo Scraper</h2>
 
 <a href="https://mighty-beyond-14460.herokuapp.com/" rel="Mongo Scraper">![Mongo Scraper](https://i.imgur.com/lrBXZWj.png) </a>
