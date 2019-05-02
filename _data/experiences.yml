@@ -15,14 +15,12 @@
   job: "DevOps Engineer"
   date: December 2016 - December 2018
   description: |+
-    - Migrated on-premise Exchange Email Server to cloud based Office 365
-    - Initialized and deployed JAMF Pro EMM to all Mac users
-    - Implemented Apple JointVenture premium support for all Mac users 
-    - Deployed ConnectWise RDP to all users for improved remote support
-    - Maintained and improved the reliability and uptime of products and services residing on premises and in the Azure and AWS cloud
-    - Planned and coordinated data migrations between systems
-    - Worked closely with developers, both on premises and third-party vendors, to configure, troubleshoot, maintain and deploy solutions to the cloud, and migrate on premises solutions to the cloud
-    - Represented the Information Technology Development team during inter-department discussions concerning projects and technology strategy
+    - Initialized and deployed JAMF Pro EMM to Mac users
+    - Implemented Apple JointVenture premium support for Mac users 
+    - Deployed ConnectWise RDP to users for improved remote support
+    - On-premise Exchange 2010 email server migration to cloud-based Office 365
+    - Maintained and improved the reliability and uptime of products and services residing on-premises and in the Azure and AWS cloud
+    - Worked closely with developers, both on-premises and third-party vendors, to configure, troubleshoot, maintain and deploy solutions to the cloud, and migrate on-premises solutions to the cloud
 
 - company: Anchor Network Solutions
   job: "Service Desk Engineer II"
@@ -35,9 +33,9 @@
   job: "Technical Support Engineer"
   date: June 2015 - February 2016
   description: |+
-    - Primary technical support contact for employees and contractors during new office move
+    - Primary technical support contact for employees and contractors
     - Support for employee workstations and phones, internal company networks, software, hardware, and internal web applications
-    - Administration and access control of internal technology tools, including Group Policy, Active Directory, Microsoft Office 365, MDM, Atlassian JIRA, Mac OS X, Microsoft Windows and Windows Server
+    - Administration and access control of internal technology tools, including Group Policy, Active Directory, Microsoft Office 365, MDM, Atlassian JIRA, Mac OS X, Microsoft Windows, and Windows Server
     - Internal technology documentation and training for employees and contractors
     - Skype for Business IP phone setup and support
     - Testing of new and updated software and hardware prior to company-wide rollouts
@@ -52,7 +50,7 @@
   job: "Associate Deployment Engineer"
   date: August 2012 - June 2015
   description: |+
-    - Completed QA and production environment migration from physical datacenters to cloud-based Microsoft Azure platform
+    - Completed QA and production environment migration from physical data centers to cloud-based Microsoft Azure platform
     - Responsible for the setup, configuration, and ongoing monitoring and support of One North Interactive production web application and database servers, custom applications, and websites
     - Windows 2003/2008/2012 Server/Advanced Server administration
     - Microsoft SQL Server 2005/2008/2012 administration
@@ -61,7 +59,7 @@
     - .NET application installation and configuration
     - Application problem isolation and debugging
     - Custom application & website migration & installation
-    - Assisting the application development and QA teams with application builds, versioning and migration management (Git, BitBucket, Octopus Deploy, TeamCity)
+    - Assisting the application development and QA teams with application builds, versioning and migration management (Git, Bitbucket, Octopus Deploy, TeamCity)
     - On-call support rotation
     - Internal and external DNS configuration
     - File system management via DFSR and SFTP
@@ -81,6 +79,6 @@
     - .NET application installation and configuration
     - Application problem isolation and debugging
     - Custom application & website migration & installation
-    - Assisting the application development and QA teams with application builds, versioning and migration
+    - Assisting the application development and QA teams with application builds, versioning  and migration
     - Custom application installation procedure and deployment
     - Onsite application installation and configuration support
