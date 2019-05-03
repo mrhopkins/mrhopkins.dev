@@ -15,13 +15,13 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "Matthew Hopkins | Full Stack Web Developer"
-keywords:    "Matthew, Hopkins"
-description: "Matthew Hopkins"
-source_link: "https://github.com/mrhopkins/matthewhopkins.org"
+title:       "Matthew Hopkins | Denver, CO"
+keywords:    "Matthew, Hopkins, DevOps Engineer, Full Stack, Web Developer"
+description: "Matthew Hopkins, DevOps Engineer, Full Stack Web Developer"
+source_link: "https://github.com/mrhopkins/mrhopkins.dev"
 favicon:     "favicon.ico"
 touch_icon:  "favicon.ico"
-google_analytics_key: UA-44211044-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-138506829-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
