@@ -28,7 +28,7 @@ google_analytics_key: UA-138506829-1 ## put YOUR key here to enable tracking! (b
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#0059B5'
+  blue:      '#3B84CF'
   green:     '#3BBA6E'
   purple:    '#635FD4'
   orange:    '#EEED17'
