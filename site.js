@@ -25,7 +25,7 @@ $.extend($.easing,
         }, options );
         navItems = this;
 
-        //attatch click listeners
+        //attach click listeners
     	navItems.on('click', function(event){
     		event.preventDefault();
             var navID = $(this).attr("href").substring(1);
@@ -39,8 +39,8 @@ $.extend($.easing,
             );
     	});
 
-        //populate lookup of clicable elements and destination sections
-        populateDestinations(); //should also be run on browser resize, btw
+        //populate lookup of clickable elements and destination sections
+        populateDestinations(); //should also run on browser resize
 
         // setup scroll listener
         $(document).scroll(function(){
@@ -74,12 +74,12 @@ $(document).ready(function (){
 
     $('nav li a').navScroller();
 
-    //section divider icon click gently scrolls to reveal the section
+    //section divider icon click gently scrolls to reveal section
 	$(".sectiondivider").on('click', function(event) {
     	$('html,body').animate({scrollTop: $(event.target.parentNode).offset().top - 50}, 400, "linear");
 	});
 
-    //links going to other sections nicely scroll
+    //links to other sections nicely scroll
 	$(".container a").each(function(){
         if ($(this).attr("href").charAt(0) == '#'){
             $(this).on('click', function(event) {
@@ -92,4 +92,3 @@ $(document).ready(function (){
 	});
 
 });
-
