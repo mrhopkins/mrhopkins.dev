@@ -1,6 +1,6 @@
 ---
 title: "portfolio"
-bg: 'green'
+bg: 'purple'
 color: white
 fa-icon: code
 style: center
