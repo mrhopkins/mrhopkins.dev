@@ -1,6 +1,6 @@
 ---
 title: "certifications"
-bg: '#757575'    #defined in _config.yml, can use html color like '#f8f8f8'
+bg: 'gray'    #defined in _config.yml, can use html color like '#f8f8f8'
 color: white  #text color
 fa-icon: trophy
 ---
