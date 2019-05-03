@@ -6,6 +6,12 @@ fa-icon: code
 style: center
 ---
 
+<h2>(React) Google Books Search</h2>
+
+<a href="https://google-books-search-react-mern.herokuapp.com/" rel="(React) Google Books Search">![(React) Google Books Search](https://i.imgur.com/GB4t9In.png) </a>
+<br>
+[GitHub Code](https://github.com/mrhopkins/google-books-search)
+
 <h2>Clicky Game</h2>
 
 <a href="https://mrhopkins.github.io/clickygame/" rel="Clicky Game">![Clicky Game](https://i.imgur.com/LKW5SJj.png) </a>
