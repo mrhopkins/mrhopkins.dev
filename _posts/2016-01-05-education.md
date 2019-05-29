@@ -6,9 +6,9 @@ fa-icon: graduation-cap
 style: center
 ---
 
-### University of Denver Boot Camps
+### University of Denver Coding Boot Camp
 
-*Full Stack Web Developer Certification*
+*Full-Stack Web Developer Certification*
 
 <br>
 
