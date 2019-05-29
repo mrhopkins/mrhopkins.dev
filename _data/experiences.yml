@@ -1,16 +1,3 @@
-- company: University of Denver Boot Camps
-  job: "Student Full Stack Web Developer"
-  date: February 2019 - Present (expected graduation May 2019)
-  description: |+
-    - Training to become a full stack web developer by gaining the skills to become proficient in frontend and backend technologies, including, but not limited to:
-    - Browser Based Technologies: HTML, CSS, Responsive Design, CSS Frameworks (Bootstrap, Materialize), JavaScript, jQuery, Handlebars, Cookies, Local Storage, React.js
-    - Deployment: Heroku, Git, Github Pages
-    - PHP: Laravel
-    - Databases: MySQL, MongoDB
-    - Server Side Development: Express, Security and Session Storage, User Authentication, MERN Stack (MongoDB, Express.js, React.js, Node.js)
-    - Quality Assurance: Writing Tests
-    - Computer Science: Data Structures, Algorithms
-  
 - company: EDUCAUSE
   job: "DevOps Engineer"
   date: December 2016 - December 2018
