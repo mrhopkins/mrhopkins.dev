@@ -6,9 +6,9 @@ fa-icon: graduation-cap
 style: center
 ---
 
-### University of Denver Coding Boot Camp
+### University of Denver
 
-*Full-Stack Web Developer Certification*
+*Full-Stack Flex Coding Boot Camp Certicification*
 
 <br>
 
