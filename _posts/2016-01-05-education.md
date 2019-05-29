@@ -8,7 +8,7 @@ style: center
 
 ### University of Denver
 
-*Full-Stack Flex Coding Boot Camp Certicification*
+*Full-Stack Flex Coding Boot Camp Certification*
 
 <br>
 
