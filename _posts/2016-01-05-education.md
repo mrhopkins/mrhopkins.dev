@@ -8,7 +8,7 @@ style: center
 
 ### University of Denver
 
-*Certification, Full Stack Coding Boot Camp*
+*Full Stack Coding Boot Camp*
 
 <br>
 
@@ -20,7 +20,7 @@ style: center
 
 ### LeaderQuest
 
-*IT Certification, MCITP, MCSE, ITIL, and A+*
+*MCITP, MCSE, ITIL, and A+*
 
 <!--
 {% assign graduations = site.data.graduations %}
