@@ -8,7 +8,7 @@ style: center
 
 ### University of Denver
 
-*Full Stack Coding Boot Camp Certification*
+*Certification, Full Stack Coding Boot Camp*
 
 <br>
 
