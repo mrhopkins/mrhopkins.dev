@@ -16,12 +16,6 @@ style: center
 
 *Bachelor of Science, Business Administration; Marketing*
 
-<br>
-
-### LeaderQuest
-
-*MCITP, MCSE, ITIL, and A+*
-
 <!--
 {% assign graduations = site.data.graduations %}
 
