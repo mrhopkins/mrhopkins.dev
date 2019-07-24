@@ -6,12 +6,6 @@ fa-icon: code
 style: center
 ---
 
-<h2>Joke Generator</h2>
-
-<a href="https://mile-high-jokester.herokuapp.com/" rel="Joke Generator">![Joke Generator](https://i.imgur.com/pct1Z11.png) </a>
-<br>
-[GitHub Code](https://github.com/danieldouglas23/project-3b)
-
 <h2>(React) Google Books Search</h2>
 
 <a href="https://google-books-search-react-mern.herokuapp.com/" rel="(React) Google Books Search">![(React) Google Books Search](https://i.imgur.com/GB4t9In.png) </a>
